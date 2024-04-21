@@ -12,7 +12,7 @@
 <br>
 
 
-### Alternative to download this e-book at:
+### Alternative to download e-book for this Code at:
 
 - <a href="https://github.com/bsrahmat/ebook-05/blob/main/EBook05_EFinance.pdf" target="_blank">EBook05_EFinance.pdf</a>
 
