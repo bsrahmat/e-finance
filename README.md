@@ -7,7 +7,7 @@
 
 ### The complete source code for the programs in this book can be downloaded here:
 
-- <a href="https://github.com/bsrahmat/e-finance/blob/main/e-finance.zip" target="_blank">https://github.com/bsrahmat/e-finance/blob/main/e-finance.zip</a>
+- <a href="https://github.com/bsrahmat/e-finance/blob/main/e-finance.zip" target="_blank">e-finance.zip</a>
 
 <br>
 
