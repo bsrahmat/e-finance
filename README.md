@@ -1,9 +1,11 @@
-# e-finance
+# Source Code: e-Finance
 # Integrated Web-Based E-Finance System (Indonesian version)
 
 <p align="center">
   <img src="https://github.com/bsrahmat/ebook-05/blob/main/E-FINANCE.jpg" alt="" class="img-responsive" width="700">
 </p>
+
+<br>
 
 ### The complete source code for the programs in this book can be downloaded here:
 
